@@ -19,37 +19,44 @@ Welcome to the Supermarket Sales Profit Visualization repository. This repositor
 
 ### The dataset underpinning this dashboard includes the following attributes:
 
-Order Date: Date when the order was placed.
-Ship Date: Date when the order was shipped.
-Row ID: Unique identifier for each record.
-Order ID: Unique identifier for each order.
-Ship Mode: Method of shipping.
-Customer ID: Unique identifier for each customer.
-Customer Name: Name of the customer.
-Segment: Market segment of the customer.
-City: City of the customer.
-State: State of the customer.
-Country: Country of the customer.
-Postal Code: Postal code of the customer.
-Market: Market classification.
-Region: Geographic region.
-Product ID: Unique identifier for each product.
-Category: Product category.
-Sub-Category: Product sub-category.
-Product Name: Name of the product.
-Sales: Sales amount.
-Quantity: Number of units sold.
-Discount: Discount applied.
-Profit: Profit earned.
-Shipping Cost: Cost of shipping.
-Order Priority: Priority level of the order.
-Dashboard Features
+- Order Date: Date when the order was placed.
+- Ship Date: Date when the order was shipped.
+- Row ID: Unique identifier for each record.
+- Order ID: Unique identifier for each order.
+- Ship Mode: Method of shipping.
+- Customer ID: Unique identifier for each customer.
+- Customer Name: Name of the customer.
+- Segment: Market segment of the customer.
+- City: City of the customer.
+- State: State of the customer.
+- Country: Country of the customer.
+- Postal Code: Postal code of the customer.
+- Market: Market classification.
+- Region: Geographic region.
+- Product ID: Unique identifier for each product.
+- Category: Product category.
+- Sub-Category: Product sub-category.
+- Product Name: Name of the product.
+- Sales: Sales amount.
+- Quantity: Number of units sold.
+- Discount: Discount applied.
+- Profit: Profit earned.
+- Shipping Cost: Cost of shipping.
+- Order Priority: Priority level of the order.
+
+## Dashboard Features
+
 The Power BI dashboard provides a suite of interactive visualizations designed to deliver insights into:
 
-Sales Performance: Analysis of sales trends over time, highlighting peak periods and growth rates.
-Profitability Analysis: Examination of profit margins across different products, categories, and regions.
-Customer Insights: Breakdown of sales and profit by customer demographics and segments.
-Geographical Distribution: Visualization of sales and profit across various geographic locations.
-Product Analysis: Detailed view of sales and profitability by product categories and sub-categories.
-Shipping and Logistics: Impact assessment of different shipping modes and order priorities on overall performance.
-Interactive Filters: User-friendly filters for dynamic exploration of data across various dimensions.
+- Sum of Profit by Segment and Ship Mode: Analysis of profitability segmented by customer segments and shipping modes.
+- Country and Profit: Visualization of profit distribution across different countries.
+- Country-wise Sum of Profit and Sum of Sales: Detailed view of sales and profit figures for each country.
+- Sum of Profit by Market: Breakdown of profit by different market segments.
+- Sum of Profit by States: Analysis of profit generated across various states.
+- Top 5 Cities by Sales: Identification of the top-performing cities in terms of sales.
+- Top 5 Products by Profit: Highlighting the most profitable products.
+- Total Target: Visualization of the overall sales targets.
+- Total Profit: Cumulative profit earned.
+- Sum of Sales: Total sales amount.
+- Total Customers: Total number of unique customers.
+- Total Orders: Total number of orders processed.
